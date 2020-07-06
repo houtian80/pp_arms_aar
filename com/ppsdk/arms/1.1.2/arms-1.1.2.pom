@@ -200,12 +200,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.CymChad</groupId>
-      <artifactId>BaseRecyclerViewAdapterHelper</artifactId>
-      <version>2.9.47</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.litepal.android</groupId>
       <artifactId>java</artifactId>
       <version>3.0.0</version>
@@ -299,6 +293,12 @@
       <groupId>com.github.hackware1993</groupId>
       <artifactId>MagicIndicator</artifactId>
       <version>1.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.wwwtete</groupId>
+      <artifactId>ExBaseAdapter</artifactId>
+      <version>1.1.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
