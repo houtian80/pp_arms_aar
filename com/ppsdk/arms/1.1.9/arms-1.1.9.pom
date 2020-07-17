@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ppsdk</groupId>
   <artifactId>arms</artifactId>
-  <version>1.1.7</version>
+  <version>1.1.9</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -176,6 +176,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.google.dagger</groupId>
       <artifactId>dagger</artifactId>
       <version>2.19</version>
@@ -200,9 +206,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.wwwtete</groupId>
-      <artifactId>ExBaseAdapter</artifactId>
-      <version>1.1.0</version>
+      <groupId>com.github.CymChad</groupId>
+      <artifactId>BaseRecyclerViewAdapterHelper</artifactId>
+      <version>2.9.47</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -276,12 +282,6 @@
           <groupId>*</groupId>
         </exclusion>
       </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>4.9.0</version>
-      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.conscrypt</groupId>
