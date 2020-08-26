@@ -3,10 +3,10 @@
   <groupId>com.ppsdk</groupId>
   <artifactId>arms</artifactId>
   <versioning>
-    <release>1.3.9</release>
+    <release>1.4.0</release>
     <versions>
-      <version>1.3.9</version>
+      <version>1.4.0</version>
     </versions>
-    <lastUpdated>20200824074714</lastUpdated>
+    <lastUpdated>20200826031726</lastUpdated>
   </versioning>
 </metadata>
